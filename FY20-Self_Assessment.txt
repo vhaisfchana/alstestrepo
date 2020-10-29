@@ -1,0 +1,75 @@
+
+ALAN CHAN continues to worked with the other VDIF Developers to assist 
+the Clozapine Team in troubleshooting connectivity issues with their DEV 
+and SQA HealthShare HealthConnect environments.  The connection points are 
+from VistA instancesto HealthShare HealthConnect and from HealthConnect 
+to MS SQL Server.  ALAN CHAN used his experiences with VistA instances, 
+VistA HL7, HealthShare HealthConnect and the Linux OS in identifying the cause
+of the connectivity issues.  Examples of such causes are improperly
+or malformed VistA HL7 configurations, Firewall rules preventing connectivity
+or even the MS SQL Server not running.
+
+ALAN CHAN had extensive amount of data on his previous GFE Laptop.  He migrated
+this data onto a new Windows 10 GFE Laptop and re-installed/configured needed
+software.
+
+ALAN CHAN assists with office admininistrative duties in the absence 
+of an Administrative Officer (AO).  He has also assisted visiting AOs 
+from other offices as well as assisted the new Administrative Officer.
+
+ALAN CHAN completed the following HealthShare related training
+ of which most were on-site and one was virtual:
+
+Developing Using InterSystems Objects and SQL class
+Building and Managing HL7 Integrations
+HealthShare Unified Care Record Fundamentals
+Managing InterSystems Servers
+
+With technical assistance from Developers Jose Garcia and Steve Owen, 
+ALAN CHAN filled out the new DMAG Intake form so that we can get 
+an estimate for budgeting for a sandbox in the VA Enterprise Cloud.
+The previous form filled out was the EDE Azure Intake form 2.0.
+
+While on the CDC BioSense project, ALAN CHAN produced various reports 
+to asist the team in preparing to go to production with the software.
+From Forum, he produced VA Facility List for CDC BioSense.
+In addition, he produced the Patch Tracking report to identify sites 
+that have installed patch VPR*1*20.  This was done to check compliance 
+of the installation of a critical patch and crossmatch 
+facilities against CDC BioSense Facility list.
+Furthermore, ALAN CHAN performed analysis to identify the cause of missing 
+or different station numbers, missing diagnosis and missing NPI numbers.
+This required reviewing databases and source code.
+
+ALAN CHAN continues to manage 11 Linux VMs and 1 Windows VM that we have at 
+IO EDE.  These VMs have been used by VSE and Low Code Developers.  
+Other developers have used them to test patches as needed.  These VMs have 
+been centrally funded twice.  However, there is no guaratee that these VMs 
+will be centrally funded in future fiscal years.  ALAN CHAN has also installed 
+HeathShare 2019 on one of these VMs.  In addition, he plans on installing 
+HealthConnect as well.  While we have these VMs, we plan to use them 
+as a sandbox for Software Engineering Developers.  At least until we can 
+acquire funds for a sandbox in another environment such as the VA Enterprise 
+Cloud (VAEC).
+
+The VA has several software that depends on Adobe Flashplayer.  Adobe plans 
+to end support of the Flashplayer by December 31, 2020.  ALAN CHAN was asked 
+to assist in finding alternatives.  He found there are some open source 
+alternatives to flash.  However, they are not being updated.  Basically, 
+Adobe and the vendors of the more popular browsers are pushing for the use 
+of HTML5/WebGL or interactive HTML5.  Adobe still plans to support 
+Animate CC as Adobe Animate.  It is just that the browser plug-in will no 
+longer be supported.  Therefore, he believes Adobe Animate will still be able 
+to publish to HTML 5.  Adobe Flashplayer is a .dll and is considered a security 
+risk.  It is not lightweight like HTML5.  Being more CPU intensive, 
+it consumes more battery life on mobile devices.  Some of the VA software uses 
+Adobe FLEX and Cold Fusion.  He identified that Apache Flex is the replacement 
+of Adobe FLEX without the Flash Player.  Apache Royale will allow use 
+of ActionScript and output native JavaScript and HTML.  Apache Flex can output 
+to mobile and desktop platforms through the Adobe AIR runtime provided 
+by Harman.
+
+
+
+
+
