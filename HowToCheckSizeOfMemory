@@ -1,0 +1,10 @@
+Here are some example of how to check the size of memory on Linux Servers/VMs:
+free -m
+free -g
+free -h
+free -gh
+cat /proc/meminfo
+getconf -a | grep PAGES
+cat /proc/meminfo | grep MemTotal
+vmstat -s | grep memory
+sudo dmidecode -t 17 | grep  Size:
