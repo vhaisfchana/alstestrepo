@@ -1,0 +1,5 @@
+# PRINT ONE LINE EXAMPLES
+ps efaxj | head -1
+netstat -tulpn | head -2
+ps efaxj | sed -n "1,1p"
+netstat -tulpn | sed -n "1,2p"
